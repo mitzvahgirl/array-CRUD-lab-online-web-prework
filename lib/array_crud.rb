@@ -31,5 +31,6 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_lasx = array.count
+  x = my_array.count
   my_array[-1]
 end
